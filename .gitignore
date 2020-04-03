@@ -1,0 +1,9 @@
+.gradle
+.idea
+*.iml
+build/
+.gitignore.bak
+greenDaoDemo.iml
+local.properties
+gradle.properties
+gradle/
